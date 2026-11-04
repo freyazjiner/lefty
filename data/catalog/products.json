@@ -1,0 +1,1668 @@
+[
+  {
+    "id": "hp-001",
+    "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "brand": "Sony",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "bluetooth",
+      "black"
+    ],
+    "price": 428.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/sony-xm5-bb",
+    "in_stock": true
+  },
+  {
+    "id": "hp-002",
+    "title": "Sony WH-1000XM5 Silver",
+    "brand": "Sony",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "bluetooth",
+      "silver"
+    ],
+    "price": 399.99,
+    "shipping": 12.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/sony-xm5-amz",
+    "in_stock": true
+  },
+  {
+    "id": "hp-003",
+    "title": "Bose QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "bluetooth"
+    ],
+    "price": 549.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Bose",
+    "url": "https://example.com/bose-qc-ultra",
+    "in_stock": true
+  },
+  {
+    "id": "hp-004",
+    "title": "Apple AirPods Max",
+    "brand": "Apple",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "spatial"
+    ],
+    "price": 779.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/airpods-max",
+    "in_stock": true
+  },
+  {
+    "id": "hp-005",
+    "title": "Anker Soundcore Space One ANC Headphones",
+    "brand": "Anker",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "budget",
+      "over-ear"
+    ],
+    "price": 129.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/soundcore-space-one",
+    "in_stock": true
+  },
+  {
+    "id": "sh-001",
+    "title": "Nike Air Force 1 '07 White",
+    "brand": "Nike",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "white",
+      "casual",
+      "unisex"
+    ],
+    "price": 135.0,
+    "shipping": 9.99,
+    "currency": "CAD",
+    "retailer": "Nike",
+    "url": "https://example.com/af1-nike",
+    "in_stock": true
+  },
+  {
+    "id": "sh-002",
+    "title": "Nike Air Force 1 '07 White",
+    "brand": "Nike",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "white",
+      "casual"
+    ],
+    "price": 119.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/af1-sc",
+    "in_stock": true
+  },
+  {
+    "id": "sh-003",
+    "title": "Adidas Samba OG Black",
+    "brand": "Adidas",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "black",
+      "casual"
+    ],
+    "price": 140.0,
+    "shipping": 12.0,
+    "currency": "CAD",
+    "retailer": "Adidas",
+    "url": "https://example.com/samba",
+    "in_stock": true
+  },
+  {
+    "id": "sh-004",
+    "title": "New Balance 550 White Grey",
+    "brand": "New Balance",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "white",
+      "grey",
+      "casual"
+    ],
+    "price": 160.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/nb550",
+    "in_stock": true
+  },
+  {
+    "id": "lp-001",
+    "title": "Rain Design mStand Laptop Stand",
+    "brand": "Rain Design",
+    "category": "laptop_stand",
+    "tags": [
+      "aluminum",
+      "desk",
+      "ergonomic",
+      "macbook"
+    ],
+    "price": 79.99,
+    "shipping": 8.5,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/mstand-amz",
+    "in_stock": true
+  },
+  {
+    "id": "lp-002",
+    "title": "Rain Design mStand Laptop Stand",
+    "brand": "Rain Design",
+    "category": "laptop_stand",
+    "tags": [
+      "aluminum",
+      "desk",
+      "ergonomic"
+    ],
+    "price": 89.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/mstand-bb",
+    "in_stock": true
+  },
+  {
+    "id": "lp-003",
+    "title": "Twelve South Curve Flex Stand",
+    "brand": "Twelve South",
+    "category": "laptop_stand",
+    "tags": [
+      "portable",
+      "foldable",
+      "macbook"
+    ],
+    "price": 99.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/curve-flex",
+    "in_stock": true
+  },
+  {
+    "id": "kb-001",
+    "title": "Keychron K2 Wireless Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "tags": [
+      "mechanical",
+      "wireless",
+      "75%",
+      "rgb"
+    ],
+    "price": 119.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/keychron-k2",
+    "in_stock": true
+  },
+  {
+    "id": "kb-002",
+    "title": "Logitech MX Keys Mini",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "tags": [
+      "wireless",
+      "compact",
+      "quiet",
+      "mac"
+    ],
+    "price": 129.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/mx-keys-mini",
+    "in_stock": true
+  },
+  {
+    "id": "kb-003",
+    "title": "Keychron K2 V2 Brown Switches",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "tags": [
+      "mechanical",
+      "wireless",
+      "brown"
+    ],
+    "price": 109.0,
+    "shipping": 14.99,
+    "currency": "CAD",
+    "retailer": "Keychron",
+    "url": "https://example.com/keychron-direct",
+    "in_stock": true
+  },
+  {
+    "id": "cam-001",
+    "title": "Logitech C920 HD Pro Webcam",
+    "brand": "Logitech",
+    "category": "webcam",
+    "tags": [
+      "1080p",
+      "usb",
+      "streaming"
+    ],
+    "price": 89.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/c920",
+    "in_stock": true
+  },
+  {
+    "id": "cam-002",
+    "title": "Anker PowerConf C200 2K Webcam",
+    "brand": "Anker",
+    "category": "webcam",
+    "tags": [
+      "2k",
+      "usb",
+      "budget"
+    ],
+    "price": 69.99,
+    "shipping": 5.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/c200",
+    "in_stock": true
+  },
+  {
+    "id": "bag-001",
+    "title": "Herschel Little America Backpack",
+    "brand": "Herschel",
+    "category": "backpack",
+    "tags": [
+      "laptop",
+      "school",
+      "casual"
+    ],
+    "price": 144.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Herschel",
+    "url": "https://example.com/herschel-la",
+    "in_stock": true
+  },
+  {
+    "id": "bag-002",
+    "title": "North Face Borealis Backpack",
+    "brand": "The North Face",
+    "category": "backpack",
+    "tags": [
+      "laptop",
+      "hiking",
+      "school"
+    ],
+    "price": 129.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/borealis",
+    "in_stock": true
+  },
+  {
+    "id": "watch-001",
+    "title": "Apple Watch SE GPS 40mm",
+    "brand": "Apple",
+    "category": "smartwatch",
+    "tags": [
+      "fitness",
+      "gps",
+      "watch"
+    ],
+    "price": 329.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/watch-se",
+    "in_stock": true
+  },
+  {
+    "id": "watch-002",
+    "title": "Fitbit Charge 6",
+    "brand": "Fitbit",
+    "category": "smartwatch",
+    "tags": [
+      "fitness",
+      "budget",
+      "tracker"
+    ],
+    "price": 199.95,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/charge6",
+    "in_stock": true
+  },
+  {
+    "id": "hp-006",
+    "title": "Sony WH-CH720N Wireless Noise Cancelling",
+    "brand": "Sony",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "budget",
+      "over-ear",
+      "bluetooth"
+    ],
+    "price": 179.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/sony-ch720n",
+    "in_stock": true
+  },
+  {
+    "id": "hp-007",
+    "title": "Bose QuietComfort Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "bluetooth"
+    ],
+    "price": 429.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/bose-qc",
+    "in_stock": true
+  },
+  {
+    "id": "hp-008",
+    "title": "Sennheiser Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "hi-fi"
+    ],
+    "price": 449.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/momentum4",
+    "in_stock": true
+  },
+  {
+    "id": "hp-009",
+    "title": "Beats Studio Pro",
+    "brand": "Beats",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "spatial"
+    ],
+    "price": 449.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/beats-studio-pro",
+    "in_stock": true
+  },
+  {
+    "id": "hp-010",
+    "title": "JBL Tune 760NC",
+    "brand": "JBL",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "budget",
+      "over-ear"
+    ],
+    "price": 99.98,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/jbl-760nc",
+    "in_stock": true
+  },
+  {
+    "id": "hp-011",
+    "title": "Sony WH-1000XM4 Black",
+    "brand": "Sony",
+    "category": "headphones",
+    "tags": [
+      "wireless",
+      "anc",
+      "over-ear",
+      "bluetooth",
+      "black"
+    ],
+    "price": 348.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/sony-xm4",
+    "in_stock": true
+  },
+  {
+    "id": "hp-012",
+    "title": "Audio-Technica ATH-M50x",
+    "brand": "Audio-Technica",
+    "category": "headphones",
+    "tags": [
+      "wired",
+      "studio",
+      "over-ear",
+      "monitoring"
+    ],
+    "price": 219.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Long & McQuade",
+    "url": "https://example.com/ath-m50x",
+    "in_stock": true
+  },
+  {
+    "id": "eb-001",
+    "title": "Apple AirPods Pro 2 USB-C",
+    "brand": "Apple",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "in-ear",
+      "spatial"
+    ],
+    "price": 329.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/airpods-pro2",
+    "in_stock": true
+  },
+  {
+    "id": "eb-002",
+    "title": "Sony WF-1000XM5 Earbuds",
+    "brand": "Sony",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "in-ear",
+      "bluetooth"
+    ],
+    "price": 379.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/sony-wf-xm5",
+    "in_stock": true
+  },
+  {
+    "id": "eb-003",
+    "title": "Samsung Galaxy Buds3 Pro",
+    "brand": "Samsung",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "in-ear"
+    ],
+    "price": 319.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/galaxy-buds3",
+    "in_stock": true
+  },
+  {
+    "id": "eb-004",
+    "title": "Anker Soundcore Liberty 4 NC",
+    "brand": "Anker",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "budget",
+      "in-ear"
+    ],
+    "price": 129.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/liberty4nc",
+    "in_stock": true
+  },
+  {
+    "id": "eb-005",
+    "title": "Google Pixel Buds Pro 2",
+    "brand": "Google",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "in-ear"
+    ],
+    "price": 299.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/pixel-buds-pro2",
+    "in_stock": true
+  },
+  {
+    "id": "eb-006",
+    "title": "Bose QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "in-ear"
+    ],
+    "price": 429.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Bose",
+    "url": "https://example.com/bose-qc-ultra-buds",
+    "in_stock": true
+  },
+  {
+    "id": "eb-007",
+    "title": "Nothing Ear (a)",
+    "brand": "Nothing",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "budget",
+      "in-ear"
+    ],
+    "price": 129.0,
+    "shipping": 9.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/nothing-ear-a",
+    "in_stock": true
+  },
+  {
+    "id": "eb-008",
+    "title": "Jabra Elite 8 Active",
+    "brand": "Jabra",
+    "category": "earbuds",
+    "tags": [
+      "wireless",
+      "anc",
+      "sport",
+      "waterproof"
+    ],
+    "price": 249.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/jabra-elite8",
+    "in_stock": true
+  },
+  {
+    "id": "sh-005",
+    "title": "Nike Dunk Low Panda Black White",
+    "brand": "Nike",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "black",
+      "white",
+      "casual"
+    ],
+    "price": 145.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/dunk-panda",
+    "in_stock": true
+  },
+  {
+    "id": "sh-006",
+    "title": "Adidas Samba OG White",
+    "brand": "Adidas",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "white",
+      "casual"
+    ],
+    "price": 140.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Adidas",
+    "url": "https://example.com/samba-white",
+    "in_stock": true
+  },
+  {
+    "id": "sh-007",
+    "title": "Nike Air Force 1 '07 Black",
+    "brand": "Nike",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "black",
+      "casual"
+    ],
+    "price": 135.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Nike",
+    "url": "https://example.com/af1-black",
+    "in_stock": true
+  },
+  {
+    "id": "sh-008",
+    "title": "Adidas Gazelle Indoor Blue",
+    "brand": "Adidas",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "blue",
+      "casual"
+    ],
+    "price": 150.0,
+    "shipping": 12.0,
+    "currency": "CAD",
+    "retailer": "Adidas",
+    "url": "https://example.com/gazelle",
+    "in_stock": true
+  },
+  {
+    "id": "sh-009",
+    "title": "New Balance 9060 Grey Day",
+    "brand": "New Balance",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "grey",
+      "chunky"
+    ],
+    "price": 220.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/nb9060",
+    "in_stock": true
+  },
+  {
+    "id": "sh-010",
+    "title": "Converse Chuck Taylor All Star High White",
+    "brand": "Converse",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "white",
+      "canvas",
+      "casual"
+    ],
+    "price": 85.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/converse-high",
+    "in_stock": true
+  },
+  {
+    "id": "sh-011",
+    "title": "Vans Old Skool Black White",
+    "brand": "Vans",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "black",
+      "skate"
+    ],
+    "price": 90.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/vans-os",
+    "in_stock": true
+  },
+  {
+    "id": "sh-012",
+    "title": "Salomon XT-6 Black",
+    "brand": "Salomon",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "trail",
+      "black",
+      "techwear"
+    ],
+    "price": 260.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/salomon-xt6",
+    "in_stock": true
+  },
+  {
+    "id": "sh-013",
+    "title": "Nike Air Force 1 '07 White",
+    "brand": "Nike",
+    "category": "shoes",
+    "tags": [
+      "sneakers",
+      "white",
+      "casual"
+    ],
+    "price": 124.99,
+    "shipping": 14.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/af1-amz",
+    "in_stock": true
+  },
+  {
+    "id": "sh-014",
+    "title": "On Cloudmonster 2 Running Shoes",
+    "brand": "On",
+    "category": "shoes",
+    "tags": [
+      "running",
+      "cushion",
+      "road"
+    ],
+    "price": 210.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/cloudmonster",
+    "in_stock": true
+  },
+  {
+    "id": "kb-004",
+    "title": "Keychron K8 Pro QMK/VIA",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "tags": [
+      "mechanical",
+      "wireless",
+      "tkl",
+      "rgb"
+    ],
+    "price": 149.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/keychron-k8",
+    "in_stock": true
+  },
+  {
+    "id": "kb-005",
+    "title": "Logitech MX Mechanical Mini",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "tags": [
+      "wireless",
+      "mechanical",
+      "compact",
+      "mac"
+    ],
+    "price": 189.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/mx-mech-mini",
+    "in_stock": true
+  },
+  {
+    "id": "kb-006",
+    "title": "Apple Magic Keyboard with Touch ID",
+    "brand": "Apple",
+    "category": "keyboard",
+    "tags": [
+      "wireless",
+      "compact",
+      "mac",
+      "quiet"
+    ],
+    "price": 189.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/magic-keyboard",
+    "in_stock": true
+  },
+  {
+    "id": "kb-007",
+    "title": "Razer BlackWidow V4 75%",
+    "brand": "Razer",
+    "category": "keyboard",
+    "tags": [
+      "mechanical",
+      "wired",
+      "gaming",
+      "rgb"
+    ],
+    "price": 229.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/blackwidow-v4",
+    "in_stock": true
+  },
+  {
+    "id": "kb-008",
+    "title": "NuPhy Air75 V2 Low Profile",
+    "brand": "NuPhy",
+    "category": "keyboard",
+    "tags": [
+      "mechanical",
+      "wireless",
+      "low-profile",
+      "75%"
+    ],
+    "price": 169.0,
+    "shipping": 12.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/nuphy-air75",
+    "in_stock": true
+  },
+  {
+    "id": "kb-009",
+    "title": "Logitech K380 Multi-Device",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "tags": [
+      "wireless",
+      "compact",
+      "budget",
+      "quiet"
+    ],
+    "price": 49.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/k380",
+    "in_stock": true
+  },
+  {
+    "id": "kb-010",
+    "title": "Keychron Q1 Pro Barebone",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "tags": [
+      "mechanical",
+      "wireless",
+      "75%",
+      "custom"
+    ],
+    "price": 219.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Keychron",
+    "url": "https://example.com/keychron-q1",
+    "in_stock": true
+  },
+  {
+    "id": "ms-001",
+    "title": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "mouse",
+    "tags": [
+      "wireless",
+      "ergonomic",
+      "productivity"
+    ],
+    "price": 139.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/mx-master-3s",
+    "in_stock": true
+  },
+  {
+    "id": "ms-002",
+    "title": "Apple Magic Mouse",
+    "brand": "Apple",
+    "category": "mouse",
+    "tags": [
+      "wireless",
+      "mac",
+      "multi-touch"
+    ],
+    "price": 109.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/magic-mouse",
+    "in_stock": true
+  },
+  {
+    "id": "ms-003",
+    "title": "Logitech G Pro X Superlight 2",
+    "brand": "Logitech",
+    "category": "mouse",
+    "tags": [
+      "wireless",
+      "gaming",
+      "lightweight"
+    ],
+    "price": 209.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/gpro-superlight",
+    "in_stock": true
+  },
+  {
+    "id": "ms-004",
+    "title": "Razer DeathAdder V3",
+    "brand": "Razer",
+    "category": "mouse",
+    "tags": [
+      "wired",
+      "gaming",
+      "ergonomic"
+    ],
+    "price": 99.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/deathadder-v3",
+    "in_stock": true
+  },
+  {
+    "id": "ms-005",
+    "title": "Anker Vertical Ergonomic Mouse",
+    "brand": "Anker",
+    "category": "mouse",
+    "tags": [
+      "wired",
+      "ergonomic",
+      "budget"
+    ],
+    "price": 29.99,
+    "shipping": 5.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/anker-vertical",
+    "in_stock": true
+  },
+  {
+    "id": "cam-003",
+    "title": "Logitech Brio 4K Webcam",
+    "brand": "Logitech",
+    "category": "webcam",
+    "tags": [
+      "4k",
+      "usb",
+      "streaming",
+      "hdr"
+    ],
+    "price": 249.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/brio4k",
+    "in_stock": true
+  },
+  {
+    "id": "cam-004",
+    "title": "Razer Kiyo Pro",
+    "brand": "Razer",
+    "category": "webcam",
+    "tags": [
+      "1080p",
+      "usb",
+      "streaming",
+      "hdr"
+    ],
+    "price": 199.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/kiyo-pro",
+    "in_stock": true
+  },
+  {
+    "id": "cam-005",
+    "title": "Dell UltraSharp Webcam WB7022",
+    "brand": "Dell",
+    "category": "webcam",
+    "tags": [
+      "4k",
+      "usb",
+      "office"
+    ],
+    "price": 279.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Dell",
+    "url": "https://example.com/wb7022",
+    "in_stock": true
+  },
+  {
+    "id": "cam-006",
+    "title": "Insta360 Link 2 Webcam",
+    "brand": "Insta360",
+    "category": "webcam",
+    "tags": [
+      "4k",
+      "ai",
+      "ptz",
+      "usb"
+    ],
+    "price": 399.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/insta360-link2",
+    "in_stock": true
+  },
+  {
+    "id": "lp-004",
+    "title": "Roost Laptop Stand V3",
+    "brand": "Roost",
+    "category": "laptop_stand",
+    "tags": [
+      "portable",
+      "foldable",
+      "aluminum",
+      "travel"
+    ],
+    "price": 109.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/roost-v3",
+    "in_stock": true
+  },
+  {
+    "id": "lp-005",
+    "title": "Amazon Basics Adjustable Laptop Stand",
+    "brand": "Amazon Basics",
+    "category": "laptop_stand",
+    "tags": [
+      "budget",
+      "adjustable",
+      "desk"
+    ],
+    "price": 34.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/amz-basics-stand",
+    "in_stock": true
+  },
+  {
+    "id": "lp-006",
+    "title": "Griffin Elevator Stand",
+    "brand": "Griffin",
+    "category": "laptop_stand",
+    "tags": [
+      "aluminum",
+      "desk",
+      "ergonomic"
+    ],
+    "price": 74.99,
+    "shipping": 9.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/griffin-elevator",
+    "in_stock": true
+  },
+  {
+    "id": "bag-003",
+    "title": "Herschel Classic Backpack",
+    "brand": "Herschel",
+    "category": "backpack",
+    "tags": [
+      "school",
+      "casual",
+      "budget"
+    ],
+    "price": 79.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/herschel-classic",
+    "in_stock": true
+  },
+  {
+    "id": "bag-004",
+    "title": "Peak Design Everyday Backpack 20L",
+    "brand": "Peak Design",
+    "category": "backpack",
+    "tags": [
+      "camera",
+      "laptop",
+      "travel"
+    ],
+    "price": 359.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/peak-everyday",
+    "in_stock": true
+  },
+  {
+    "id": "bag-005",
+    "title": "Fjallraven Kanken Classic",
+    "brand": "Fjallraven",
+    "category": "backpack",
+    "tags": [
+      "school",
+      "casual",
+      "canvas"
+    ],
+    "price": 120.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Sport Chek",
+    "url": "https://example.com/kanken",
+    "in_stock": true
+  },
+  {
+    "id": "bag-006",
+    "title": "Osprey Daylite Plus",
+    "brand": "Osprey",
+    "category": "backpack",
+    "tags": [
+      "hiking",
+      "daypack",
+      "travel"
+    ],
+    "price": 85.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "MEC",
+    "url": "https://example.com/daylite-plus",
+    "in_stock": true
+  },
+  {
+    "id": "bag-007",
+    "title": "Aer Travel Pack 3",
+    "brand": "Aer",
+    "category": "backpack",
+    "tags": [
+      "travel",
+      "laptop",
+      "carry-on"
+    ],
+    "price": 320.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/aer-tp3",
+    "in_stock": true
+  },
+  {
+    "id": "watch-003",
+    "title": "Apple Watch Series 10 GPS 42mm",
+    "brand": "Apple",
+    "category": "smartwatch",
+    "tags": [
+      "fitness",
+      "gps",
+      "watch",
+      "cellular-ready"
+    ],
+    "price": 549.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/watch-s10",
+    "in_stock": true
+  },
+  {
+    "id": "watch-004",
+    "title": "Garmin Forerunner 265",
+    "brand": "Garmin",
+    "category": "smartwatch",
+    "tags": [
+      "running",
+      "gps",
+      "training"
+    ],
+    "price": 599.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/forerunner265",
+    "in_stock": true
+  },
+  {
+    "id": "watch-005",
+    "title": "Samsung Galaxy Watch7 40mm",
+    "brand": "Samsung",
+    "category": "smartwatch",
+    "tags": [
+      "fitness",
+      "gps",
+      "wear-os"
+    ],
+    "price": 429.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/galaxy-watch7",
+    "in_stock": true
+  },
+  {
+    "id": "watch-006",
+    "title": "Garmin Vivosmart 5",
+    "brand": "Garmin",
+    "category": "smartwatch",
+    "tags": [
+      "fitness",
+      "budget",
+      "tracker"
+    ],
+    "price": 179.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/vivosmart5",
+    "in_stock": true
+  },
+  {
+    "id": "watch-007",
+    "title": "Apple Watch SE GPS 44mm",
+    "brand": "Apple",
+    "category": "smartwatch",
+    "tags": [
+      "fitness",
+      "gps",
+      "watch"
+    ],
+    "price": 359.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/watch-se-44",
+    "in_stock": true
+  },
+  {
+    "id": "mon-001",
+    "title": "LG UltraGear 27GP850-B 27-inch 165Hz",
+    "brand": "LG",
+    "category": "monitor",
+    "tags": [
+      "27-inch",
+      "1440p",
+      "gaming",
+      "165hz"
+    ],
+    "price": 449.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/lg-27gp850",
+    "in_stock": true
+  },
+  {
+    "id": "mon-002",
+    "title": "Dell S2722QC 27-inch 4K USB-C",
+    "brand": "Dell",
+    "category": "monitor",
+    "tags": [
+      "27-inch",
+      "4k",
+      "usb-c",
+      "office"
+    ],
+    "price": 499.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Dell",
+    "url": "https://example.com/dell-s2722qc",
+    "in_stock": true
+  },
+  {
+    "id": "mon-003",
+    "title": "ASUS ProArt PA278CV 27-inch",
+    "brand": "ASUS",
+    "category": "monitor",
+    "tags": [
+      "27-inch",
+      "1440p",
+      "color",
+      "usb-c"
+    ],
+    "price": 449.0,
+    "shipping": 19.99,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/asus-pa278",
+    "in_stock": true
+  },
+  {
+    "id": "mon-004",
+    "title": "BenQ GW2780 27-inch 1080p",
+    "brand": "BenQ",
+    "category": "monitor",
+    "tags": [
+      "27-inch",
+      "1080p",
+      "budget",
+      "office"
+    ],
+    "price": 199.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/benq-gw2780",
+    "in_stock": true
+  },
+  {
+    "id": "mon-005",
+    "title": "Samsung Odyssey G5 32-inch Curved",
+    "brand": "Samsung",
+    "category": "monitor",
+    "tags": [
+      "32-inch",
+      "1440p",
+      "gaming",
+      "curved"
+    ],
+    "price": 399.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/odyssey-g5",
+    "in_stock": true
+  },
+  {
+    "id": "mon-006",
+    "title": "Apple Studio Display 27-inch",
+    "brand": "Apple",
+    "category": "monitor",
+    "tags": [
+      "27-inch",
+      "5k",
+      "retina",
+      "usb-c"
+    ],
+    "price": 1899.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/studio-display",
+    "in_stock": true
+  },
+  {
+    "id": "sp-001",
+    "title": "Sonos Era 100",
+    "brand": "Sonos",
+    "category": "speaker",
+    "tags": [
+      "wifi",
+      "smart",
+      "stereo"
+    ],
+    "price": 299.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/sonos-era100",
+    "in_stock": true
+  },
+  {
+    "id": "sp-002",
+    "title": "Bose SoundLink Flex",
+    "brand": "Bose",
+    "category": "speaker",
+    "tags": [
+      "bluetooth",
+      "portable",
+      "waterproof"
+    ],
+    "price": 199.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Bose",
+    "url": "https://example.com/soundlink-flex",
+    "in_stock": true
+  },
+  {
+    "id": "sp-003",
+    "title": "JBL Flip 6",
+    "brand": "JBL",
+    "category": "speaker",
+    "tags": [
+      "bluetooth",
+      "portable",
+      "waterproof",
+      "budget"
+    ],
+    "price": 149.98,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/jbl-flip6",
+    "in_stock": true
+  },
+  {
+    "id": "sp-004",
+    "title": "Apple Homepod mini",
+    "brand": "Apple",
+    "category": "speaker",
+    "tags": [
+      "smart",
+      "siri",
+      "wifi"
+    ],
+    "price": 129.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/homepod-mini",
+    "in_stock": true
+  },
+  {
+    "id": "sp-005",
+    "title": "Anker Soundcore Motion Plus",
+    "brand": "Anker",
+    "category": "speaker",
+    "tags": [
+      "bluetooth",
+      "portable",
+      "budget"
+    ],
+    "price": 99.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/motion-plus",
+    "in_stock": true
+  },
+  {
+    "id": "chg-001",
+    "title": "Anker 737 Power Bank 140W",
+    "brand": "Anker",
+    "category": "charger",
+    "tags": [
+      "power-bank",
+      "usb-c",
+      "140w",
+      "travel"
+    ],
+    "price": 179.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/anker-737",
+    "in_stock": true
+  },
+  {
+    "id": "chg-002",
+    "title": "Apple MagSafe Charger",
+    "brand": "Apple",
+    "category": "charger",
+    "tags": [
+      "magsafe",
+      "wireless",
+      "iphone"
+    ],
+    "price": 59.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/magsafe",
+    "in_stock": true
+  },
+  {
+    "id": "chg-003",
+    "title": "Anker Nano II 65W GaN Charger",
+    "brand": "Anker",
+    "category": "charger",
+    "tags": [
+      "gan",
+      "usb-c",
+      "65w",
+      "compact"
+    ],
+    "price": 54.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/nano65",
+    "in_stock": true
+  },
+  {
+    "id": "chg-004",
+    "title": "Belkin BoostCharge Pro 3-in-1 MagSafe",
+    "brand": "Belkin",
+    "category": "charger",
+    "tags": [
+      "magsafe",
+      "stand",
+      "apple-watch"
+    ],
+    "price": 179.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/belkin-3in1",
+    "in_stock": true
+  },
+  {
+    "id": "chg-005",
+    "title": "Ugreen Nexode 100W GaN Charger",
+    "brand": "Ugreen",
+    "category": "charger",
+    "tags": [
+      "gan",
+      "usb-c",
+      "100w",
+      "travel"
+    ],
+    "price": 79.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/ugreen-100w",
+    "in_stock": true
+  },
+  {
+    "id": "tab-001",
+    "title": "Apple iPad 10th Gen 64GB Wi-Fi",
+    "brand": "Apple",
+    "category": "tablet",
+    "tags": [
+      "wifi",
+      "student",
+      "drawing"
+    ],
+    "price": 449.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/ipad10",
+    "in_stock": true
+  },
+  {
+    "id": "tab-002",
+    "title": "Samsung Galaxy Tab S9 FE",
+    "brand": "Samsung",
+    "category": "tablet",
+    "tags": [
+      "wifi",
+      "android",
+      "stylus"
+    ],
+    "price": 599.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Best Buy",
+    "url": "https://example.com/tab-s9fe",
+    "in_stock": true
+  },
+  {
+    "id": "tab-003",
+    "title": "Amazon Fire HD 10",
+    "brand": "Amazon",
+    "category": "tablet",
+    "tags": [
+      "wifi",
+      "budget",
+      "media"
+    ],
+    "price": 189.99,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Amazon.ca",
+    "url": "https://example.com/fire-hd10",
+    "in_stock": true
+  },
+  {
+    "id": "tab-004",
+    "title": "Apple iPad Air M2 11-inch",
+    "brand": "Apple",
+    "category": "tablet",
+    "tags": [
+      "wifi",
+      "stylus",
+      "drawing",
+      "m2"
+    ],
+    "price": 799.0,
+    "shipping": 0.0,
+    "currency": "CAD",
+    "retailer": "Apple",
+    "url": "https://example.com/ipad-air-m2",
+    "in_stock": true
+  }
+]

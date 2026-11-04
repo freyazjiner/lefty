@@ -1,0 +1,40 @@
+# Secrets / local config
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+secrets/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# App runtime / personal data
+data/*.db
+data/*.db-journal
+*.sqlite3
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Regenerable vector stores / local experiment dumps
+data/catalog/chroma/
+data/eval/last_report.json
+data/eval/weight_sweep.json

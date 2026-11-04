@@ -1,0 +1,563 @@
+[
+  {
+    "id": "xm5-budget",
+    "query": "Sony XM5 headphones under 450",
+    "budget": 450,
+    "expected_pick_ids": [
+      "hp-002",
+      "hp-001"
+    ],
+    "must_include_any": [
+      "hp-001",
+      "hp-002"
+    ],
+    "notes": "Prefer XM5; ignore CH720N / XM4 distractors"
+  },
+  {
+    "id": "xm5-strict",
+    "query": "Sony WH-1000XM5 noise cancelling",
+    "budget": 420,
+    "expected_pick_ids": [
+      "hp-002"
+    ],
+    "must_include_any": [
+      "hp-001",
+      "hp-002"
+    ],
+    "notes": "BB 428 over; Amazon total ~413 wins"
+  },
+  {
+    "id": "af1-white",
+    "query": "Nike Air Force 1 white under 130",
+    "budget": 130,
+    "expected_pick_ids": [
+      "sh-002"
+    ],
+    "must_include_any": [
+      "sh-001",
+      "sh-002"
+    ],
+    "notes": "Sport Chek free ship; ignore black AF1 and Dunk"
+  },
+  {
+    "id": "mstand",
+    "query": "Rain Design mStand laptop stand",
+    "budget": 90,
+    "expected_pick_ids": [
+      "lp-001",
+      "lp-002"
+    ],
+    "must_include_any": [
+      "lp-001",
+      "lp-002"
+    ]
+  },
+  {
+    "id": "keychron",
+    "query": "Keychron K2 mechanical keyboard wireless",
+    "budget": 125,
+    "expected_pick_ids": [
+      "kb-001",
+      "kb-003"
+    ],
+    "must_include_any": [
+      "kb-001",
+      "kb-003"
+    ],
+    "notes": "K2 not K8/Q1"
+  },
+  {
+    "id": "budget-anc",
+    "query": "cheap ANC over-ear headphones under 150",
+    "budget": 150,
+    "expected_pick_ids": [
+      "hp-005",
+      "hp-010"
+    ],
+    "must_include_any": [
+      "hp-005",
+      "hp-010"
+    ]
+  },
+  {
+    "id": "samba",
+    "query": "Adidas Samba OG black sneakers",
+    "budget": 160,
+    "expected_pick_ids": [
+      "sh-003"
+    ],
+    "must_include_any": [
+      "sh-003"
+    ],
+    "notes": "Black not white Samba"
+  },
+  {
+    "id": "webcam-2k",
+    "query": "Anker 2K webcam for calls",
+    "budget": 80,
+    "expected_pick_ids": [
+      "cam-002"
+    ],
+    "must_include_any": [
+      "cam-002"
+    ]
+  },
+  {
+    "id": "watch-se",
+    "query": "Apple Watch SE GPS",
+    "budget": 350,
+    "expected_pick_ids": [
+      "watch-001"
+    ],
+    "must_include_any": [
+      "watch-001",
+      "watch-007"
+    ],
+    "notes": "Prefer SE 40mm under 350; Series 10 is wrong model"
+  },
+  {
+    "id": "over-budget-bose",
+    "query": "Bose QuietComfort Ultra headphones",
+    "budget": 200,
+    "expected_pick_ids": [
+      "hp-003"
+    ],
+    "must_include_any": [
+      "hp-003"
+    ],
+    "allow_over_budget": true,
+    "notes": "Must pick Ultra cans, not cheap Anker/JBL or earbuds"
+  },
+  {
+    "id": "mx-keys",
+    "query": "Logitech MX Keys Mini for Mac",
+    "budget": 140,
+    "expected_pick_ids": [
+      "kb-002"
+    ],
+    "must_include_any": [
+      "kb-002"
+    ],
+    "notes": "Not MX Mechanical Mini"
+  },
+  {
+    "id": "herschel-bag",
+    "query": "Herschel Little America backpack",
+    "budget": 160,
+    "expected_pick_ids": [
+      "bag-001"
+    ],
+    "must_include_any": [
+      "bag-001"
+    ],
+    "notes": "Not Classic"
+  },
+  {
+    "id": "bose-not-anker",
+    "query": "Bose QuietComfort Ultra over-ear",
+    "budget": 600,
+    "expected_pick_ids": [
+      "hp-003"
+    ],
+    "must_include_any": [
+      "hp-003"
+    ],
+    "notes": "Cheap ANC must not win"
+  },
+  {
+    "id": "xm5-not-xm4",
+    "query": "Sony WH-1000XM5 black",
+    "budget": 500,
+    "expected_pick_ids": [
+      "hp-001",
+      "hp-002"
+    ],
+    "must_include_any": [
+      "hp-001",
+      "hp-002"
+    ],
+    "notes": "XM4 is distractor"
+  },
+  {
+    "id": "airpods-max",
+    "query": "Apple AirPods Max",
+    "budget": 800,
+    "expected_pick_ids": [
+      "hp-004"
+    ],
+    "must_include_any": [
+      "hp-004"
+    ],
+    "notes": "Not AirPods Pro earbuds"
+  },
+  {
+    "id": "wf-xm5-earbuds",
+    "query": "Sony WF-1000XM5 earbuds",
+    "budget": 400,
+    "expected_pick_ids": [
+      "eb-002"
+    ],
+    "must_include_any": [
+      "eb-002"
+    ],
+    "notes": "Earbuds not WH over-ear"
+  },
+  {
+    "id": "samba-white",
+    "query": "Adidas Samba OG white",
+    "budget": 150,
+    "expected_pick_ids": [
+      "sh-006"
+    ],
+    "must_include_any": [
+      "sh-006"
+    ]
+  },
+  {
+    "id": "dunk-panda",
+    "query": "Nike Dunk Low panda black white",
+    "budget": 160,
+    "expected_pick_ids": [
+      "sh-005"
+    ],
+    "must_include_any": [
+      "sh-005"
+    ],
+    "notes": "Not AF1"
+  },
+  {
+    "id": "nb550",
+    "query": "New Balance 550 white grey",
+    "budget": 170,
+    "expected_pick_ids": [
+      "sh-004"
+    ],
+    "must_include_any": [
+      "sh-004"
+    ],
+    "notes": "Not 9060"
+  },
+  {
+    "id": "keychron-k8",
+    "query": "Keychron K8 Pro wireless mechanical",
+    "budget": 160,
+    "expected_pick_ids": [
+      "kb-004"
+    ],
+    "must_include_any": [
+      "kb-004"
+    ]
+  },
+  {
+    "id": "mx-master",
+    "query": "Logitech MX Master 3S mouse",
+    "budget": 150,
+    "expected_pick_ids": [
+      "ms-001"
+    ],
+    "must_include_any": [
+      "ms-001"
+    ],
+    "notes": "Not gaming Superlight"
+  },
+  {
+    "id": "brio-4k",
+    "query": "Logitech Brio 4K webcam",
+    "budget": 280,
+    "expected_pick_ids": [
+      "cam-003"
+    ],
+    "must_include_any": [
+      "cam-003"
+    ]
+  },
+  {
+    "id": "roost-stand",
+    "query": "Roost laptop stand portable",
+    "budget": 120,
+    "expected_pick_ids": [
+      "lp-004"
+    ],
+    "must_include_any": [
+      "lp-004"
+    ],
+    "notes": "Not Amazon Basics"
+  },
+  {
+    "id": "peak-design",
+    "query": "Peak Design Everyday backpack 20L",
+    "budget": 400,
+    "expected_pick_ids": [
+      "bag-004"
+    ],
+    "must_include_any": [
+      "bag-004"
+    ]
+  },
+  {
+    "id": "watch-s10",
+    "query": "Apple Watch Series 10 GPS",
+    "budget": 600,
+    "expected_pick_ids": [
+      "watch-003"
+    ],
+    "must_include_any": [
+      "watch-003"
+    ],
+    "notes": "Not SE"
+  },
+  {
+    "id": "forerunner",
+    "query": "Garmin Forerunner 265 running watch",
+    "budget": 650,
+    "expected_pick_ids": [
+      "watch-004"
+    ],
+    "must_include_any": [
+      "watch-004"
+    ]
+  },
+  {
+    "id": "sonos-era",
+    "query": "Sonos Era 100 speaker",
+    "budget": 320,
+    "expected_pick_ids": [
+      "sp-001"
+    ],
+    "must_include_any": [
+      "sp-001"
+    ]
+  },
+  {
+    "id": "ipad-air",
+    "query": "iPad Air M2 11 inch",
+    "budget": 850,
+    "expected_pick_ids": [
+      "tab-004"
+    ],
+    "must_include_any": [
+      "tab-004"
+    ],
+    "notes": "Not base iPad 10"
+  },
+  {
+    "id": "anker-737",
+    "query": "Anker 737 power bank 140W",
+    "budget": 200,
+    "expected_pick_ids": [
+      "chg-001"
+    ],
+    "must_include_any": [
+      "chg-001"
+    ]
+  },
+  {
+    "id": "dell-4k-monitor",
+    "query": "Dell S2722QC 4K USB-C monitor",
+    "budget": 520,
+    "expected_pick_ids": [
+      "mon-002"
+    ],
+    "must_include_any": [
+      "mon-002"
+    ]
+  },
+  {
+    "id": "af1-ship-trap",
+    "query": "Nike Air Force 1 white",
+    "budget": 130,
+    "expected_pick_ids": [
+      "sh-002"
+    ],
+    "must_include_any": [
+      "sh-002",
+      "sh-001",
+      "sh-013"
+    ],
+    "notes": "Amazon total 139.98 over; Sport Chek 119.99 wins"
+  },
+  {
+    "id": "mstand-ship",
+    "query": "Rain Design mStand under 90",
+    "budget": 90,
+    "expected_pick_ids": [
+      "lp-001",
+      "lp-002"
+    ],
+    "must_include_any": [
+      "lp-001",
+      "lp-002"
+    ],
+    "notes": "Amazon 88.49 vs BB 89"
+  },
+  {
+    "id": "keychron-total",
+    "query": "Keychron K2 under 120",
+    "budget": 120,
+    "expected_pick_ids": [
+      "kb-001"
+    ],
+    "must_include_any": [
+      "kb-001",
+      "kb-003"
+    ],
+    "notes": "Direct K2+ship 123.99 over; Amazon 119 wins"
+  },
+  {
+    "id": "webcam-budget",
+    "query": "1080p webcam under 100",
+    "budget": 100,
+    "expected_pick_ids": [
+      "cam-001",
+      "cam-002"
+    ],
+    "must_include_any": [
+      "cam-001"
+    ],
+    "notes": "C920 in budget; Brio out"
+  },
+  {
+    "id": "monitor-budget-office",
+    "query": "27 inch office monitor under 220",
+    "budget": 220,
+    "expected_pick_ids": [
+      "mon-004"
+    ],
+    "must_include_any": [
+      "mon-004"
+    ],
+    "notes": "Budget 1080p not gaming UltraGear"
+  },
+  {
+    "id": "speaker-portable-budget",
+    "query": "portable bluetooth speaker under 160",
+    "budget": 160,
+    "expected_pick_ids": [
+      "sp-003",
+      "sp-005"
+    ],
+    "must_include_any": [
+      "sp-003",
+      "sp-005"
+    ],
+    "notes": "Not Sonos wifi"
+  },
+  {
+    "id": "over-budget-studio-display",
+    "query": "Apple Studio Display 27",
+    "budget": 500,
+    "expected_pick_ids": [
+      "mon-006"
+    ],
+    "must_include_any": [
+      "mon-006"
+    ],
+    "allow_over_budget": true,
+    "notes": "Only Studio Display match"
+  },
+  {
+    "id": "over-budget-airpods-max",
+    "query": "AirPods Max over-ear",
+    "budget": 500,
+    "expected_pick_ids": [
+      "hp-004"
+    ],
+    "must_include_any": [
+      "hp-004"
+    ],
+    "allow_over_budget": true
+  },
+  {
+    "id": "noise-cancelling-sony-flagship",
+    "query": "best Sony noise cancelling headphones WH-1000XM5",
+    "budget": 450,
+    "expected_pick_ids": [
+      "hp-002",
+      "hp-001"
+    ],
+    "must_include_any": [
+      "hp-001",
+      "hp-002"
+    ]
+  },
+  {
+    "id": "mechanical-75-wireless",
+    "query": "wireless 75 percent mechanical keyboard Keychron K2",
+    "budget": 130,
+    "expected_pick_ids": [
+      "kb-001",
+      "kb-003"
+    ],
+    "must_include_any": [
+      "kb-001"
+    ]
+  },
+  {
+    "id": "ergonomic-mouse-work",
+    "query": "ergonomic wireless mouse for work MX Master",
+    "budget": 150,
+    "expected_pick_ids": [
+      "ms-001"
+    ],
+    "must_include_any": [
+      "ms-001"
+    ],
+    "notes": "Not Anker vertical wired"
+  },
+  {
+    "id": "travel-backpack-aer",
+    "query": "Aer Travel Pack 3 carry-on backpack",
+    "budget": 350,
+    "expected_pick_ids": [
+      "bag-007"
+    ],
+    "must_include_any": [
+      "bag-007"
+    ]
+  },
+  {
+    "id": "magsafe-charger",
+    "query": "Apple MagSafe charger for iPhone",
+    "budget": 70,
+    "expected_pick_ids": [
+      "chg-002"
+    ],
+    "must_include_any": [
+      "chg-002"
+    ],
+    "notes": "Not Belkin 3-in-1"
+  },
+  {
+    "id": "kanken",
+    "query": "Fjallraven Kanken classic backpack",
+    "budget": 130,
+    "expected_pick_ids": [
+      "bag-005"
+    ],
+    "must_include_any": [
+      "bag-005"
+    ]
+  },
+  {
+    "id": "soundlink-flex",
+    "query": "Bose SoundLink Flex portable speaker",
+    "budget": 220,
+    "expected_pick_ids": [
+      "sp-002"
+    ],
+    "must_include_any": [
+      "sp-002"
+    ]
+  },
+  {
+    "id": "galaxy-buds",
+    "query": "Samsung Galaxy Buds3 Pro",
+    "budget": 350,
+    "expected_pick_ids": [
+      "eb-003"
+    ],
+    "must_include_any": [
+      "eb-003"
+    ]
+  }
+]
